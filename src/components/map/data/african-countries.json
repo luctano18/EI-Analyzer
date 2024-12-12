@@ -1,0 +1,38 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Nigeria",
+        "ISO_A3": "NGA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[3.0, 6.0], [4.0, 6.0], [4.0, 7.0], [3.0, 7.0], [3.0, 6.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Ghana",
+        "ISO_A3": "GHA"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[-2.0, 7.0], [-1.0, 7.0], [-1.0, 8.0], [-2.0, 8.0], [-2.0, 7.0]]]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "ADMIN": "Kenya",
+        "ISO_A3": "KEN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [[[37.0, -1.5], [37.5, -1.5], [37.5, -1.0], [37.0, -1.0], [37.0, -1.5]]]
+      }
+    }
+  ]
+}

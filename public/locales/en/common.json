@@ -1,0 +1,32 @@
+{
+  "app": {
+    "title": "African Wisdom",
+    "subtitle": "Emotional Intelligence Inspired by African Wisdom"
+  },
+  "nav": {
+    "exploreMap": "Explore Map",
+    "consulting": "Consulting",
+    "journey": "Journey",
+    "profile": "Profile",
+    "signOut": "Sign Out",
+    "signIn": "Sign In"
+  },
+  "buttons": {
+    "confirm": "Confirm",
+    "cancel": "Cancel",
+    "save": "Save",
+    "close": "Close",
+    "continue": "Continue",
+    "back": "Back"
+  },
+  "errors": {
+    "required": "This field is required",
+    "invalidEmail": "Invalid email address",
+    "generic": "Something went wrong. Please try again."
+  },
+  "success": {
+    "saved": "Successfully saved!",
+    "updated": "Successfully updated!",
+    "deleted": "Successfully deleted!"
+  }
+}

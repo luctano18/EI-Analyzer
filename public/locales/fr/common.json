@@ -1,0 +1,32 @@
+{
+  "app": {
+    "title": "Sagesse Africaine",
+    "subtitle": "Intelligence Émotionnelle Inspirée de la Sagesse Africaine"
+  },
+  "nav": {
+    "exploreMap": "Explorer la Carte",
+    "consulting": "Consultation",
+    "journey": "Parcours",
+    "profile": "Profil",
+    "signOut": "Déconnexion",
+    "signIn": "Connexion"
+  },
+  "buttons": {
+    "confirm": "Confirmer",
+    "cancel": "Annuler",
+    "save": "Enregistrer",
+    "close": "Fermer",
+    "continue": "Continuer",
+    "back": "Retour"
+  },
+  "errors": {
+    "required": "Ce champ est obligatoire",
+    "invalidEmail": "Adresse e-mail invalide",
+    "generic": "Une erreur est survenue. Veuillez réessayer."
+  },
+  "success": {
+    "saved": "Enregistré avec succès !",
+    "updated": "Mis à jour avec succès !",
+    "deleted": "Supprimé avec succès !"
+  }
+}
